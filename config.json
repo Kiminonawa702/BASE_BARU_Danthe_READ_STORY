@@ -7,7 +7,7 @@
     "════════ Auto Features ════════": "",
     "autoOnline": true,
     "autoKickStory": false,
-    "autoLikeStatus": true,
+    "autoLikeStatus": false,
     "autoReadStatus": true,
     "autoRecord": false,
     "autoTyping": false,
